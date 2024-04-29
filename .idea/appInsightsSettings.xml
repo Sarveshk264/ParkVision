@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.parkvision" />
+                  <option name="mobileSdkAppId" value="1:851610127178:android:bcd4a19939c1d53aa98fb3" />
+                  <option name="projectId" value="parkvision-c3bac" />
+                  <option name="projectNumber" value="851610127178" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
